@@ -1,3 +1,4 @@
 Ujian Amali Source Code Management
   - Github dan Git
-  
+  - Makmal computer 1
+  - Bengekel Teknologi Perisian Pengaturcaraan
