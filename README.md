@@ -1,0 +1,2 @@
+# amaliscm
+amali
