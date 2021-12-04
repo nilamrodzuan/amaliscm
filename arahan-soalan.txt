@@ -1,0 +1,4 @@
+Ketrampilan
+- Membina repository di computer
+- setempatBangunkan branch
+- Gabungkan branch
